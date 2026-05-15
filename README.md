@@ -48,7 +48,7 @@ User → Website → Embeddings → Pinecone → Llama AI → Response
 
 ## 🌐 Live Website
 
-[Live Demo](https://sai-punith-27.github.io/VectorFlow-Support-AI/)
+[Live Demo](https://sai-punith-27.github.io/Customer-Support-VectorDB/)
 
 ---
 
